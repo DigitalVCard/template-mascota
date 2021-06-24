@@ -1,0 +1,14 @@
+{
+  "card": {
+    "name": "Mi tarjeta",
+    "icon": "mdi:account"
+  },
+  "title": "Template Mascota",
+  "sections": [
+    {
+      "name": "Mi casa",
+      "section": "/section/maps/ubicacion-simple",
+      "icon": "mdi:map"
+    }
+  ]
+}

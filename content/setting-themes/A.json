@@ -1,0 +1,25 @@
+{
+  "a": "A",
+  "b": "B",
+  "c": "C",
+  "id": "gix-material-basic",
+  "colors": {
+    "primary": "#e7e6e2",
+    "secondary": "#ff8019",
+    "primaryText": "#161616",
+    "secondaryText": "#2f2f2f",
+    "primaryBgText": "#1b294b",
+    "secondaryBgText": "#ffffff"
+  },
+  "options": {
+    "shape": {
+      "mode": "normal"
+    },
+    "basic": {
+      "icons": {
+        "menu": "whh:website"
+      }
+    }
+  },
+  "isLight": true
+}
